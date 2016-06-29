@@ -11,14 +11,14 @@ date:   2016-06-14 16:00:00 +0300
 
 ### Анатолий Засов
 
-[Презентация](/downloads/Zasov_14Jun.pdf)
+[Презентация]({{ site.github.url }}/downloads/Zasov_14Jun.pdf)
 
 - [Probing the magnetic field of the nearby galaxy pair Arp 269][link1]
 - [Another piece of the puzzle: the fast HI outflow in Mrk231][link2]
 
 ### Ольга Сильченко 
 
-[Презентация](/downloads/astroph39.pdf)
+[Презентация]({{ site.github.url }}/downloads/astroph39.pdf)
 
 - [Surface Brightness Profiles of Dwarf Galaxies: II. Color Trends and Mass Profiles][link3]
 - [The ISLAndS project II: The Lifetime Star Formation Histories of Six Andromeda dSphs][link4]
