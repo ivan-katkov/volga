@@ -184,9 +184,18 @@
     display: inline-block;
     margin: 0 25px 25px 0;
     /*padding: 5px;*/
-    box-shadow: 3px 3px 5px lightgray;
-    /*border: 1px solid black;*/
+    /*box-shadow: 3px 3px 5px lightgray;*/
+    /*border: 1px solid black;*/    
 }
+
+.logo-img{
+    border: 1px solid lightgray;
+    /*-webkit-border-radius: 20px;*/
+    /*-moz-border-radius: 20px;*/
+    padding: 3px;
+    border-radius: 15px;
+}
+
 .header-logo-block-txt {
     /*width: 200px;*/
     display: inline-block;
@@ -194,7 +203,11 @@
 }
 
 .header-logo-block-txt > p {
-text-shadow: 3px 3px 5px lightgray;
+    text-shadow: 3px 3px 5px lightgray;
+}
+
+.capital-chars {
+    color: #0000b3;
 }
 
 .seminar-description {
@@ -210,15 +223,18 @@ text-shadow: 3px 3px 5px lightgray;
 .post-list {
     margin-left: 0px;
     list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
+    
+    > li {        
+        margin-bottom: $spacing-unit;                
+    } 
 }
 
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    display: inline-block;
+    width: 100px;
+    
 }
 
 .post-link {
