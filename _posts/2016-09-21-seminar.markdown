@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Семинар #45"
+date:   2016-09-21 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: 
+Обсуждение новостей arXiv.
+
+## Докладчики:
+
+### Сергей Блинников
+
+- Вспышки сверхмощных сверхновых как TDE (tidal disruption events). 
+
+[Презентация]({{ site.github.url }}/downloads/BlinnikovSovaTDE21s2106.pdf)
+
+### Анатолий Засов
+
+- [Andreas Burkert - The geometry and origin of ultra-diffuse ghost galaxies](http://arxiv.org/abs/1609.00052v2)
+
+### Иван Катков
+
+- [Lin Lin et al. - Bar-induced central star formation as revealed by integral field spectroscopy from CALIFA](http://arxiv.org/abs/1609.05287)
+- [Ignacio Martín-Navarro et al. - Stellar populations across the black hole mass - velocity dispersion relation](http://arxiv.org/abs/1609.05899)
+
+### Ольга Сильченко
+- [Jose M. Diego et al. - A free-form lensing model of A370 revealing stellar mass dominated BCGs, in Hubble Frontier Fields images](http://arxiv.org/abs/1609.04822)
+- [Timothy A. Davis, Richard M. McDermid - Spatially resolved variations of the IMF mass normalisation in early-type galaxies as probed by molecular gas kinematics](http://arxiv.org/abs/1609.03559)
+- [B. Beygu et al. - The Void Galaxy Survey: Photometry, structure and identity of void galaxies](http://arxiv.org/abs/1609.04920)
+
+[Презентация]({{ site.github.url }}/downloads/astroph43.pdf)
+
