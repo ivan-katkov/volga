@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h1>Полный список всех семинаров</h1>
+
+<div class="home">
+<hr>
+
+
+  <div>    
+    {% for post in site.posts %}
+    
+      <div class="post-content" itemprop="articleBody">
+        <div>                
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>        
+        <div>
+          {{ post.content }}
+        </div>
+      </div>
+    
+    <hr>
+
+    {% endfor %}
+
+    
+  </div>
+</div>
