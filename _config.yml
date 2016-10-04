@@ -19,3 +19,10 @@ baseurl: "/volga" # the subpath of your site, e.g. /blog
 markdown: kramdown
 
 timezone: Europe/Moscow
+
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins
+# whitelist: []
+gems:      [jekyll-paginate]

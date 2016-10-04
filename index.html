@@ -27,13 +27,15 @@ layout: default
       Как правило, семинар проходит в 44 аудитория ГАИШ по понедельникам в 16:00.
     </p> -->
   </div>  
-  
-
+    
+  <h1>Последние семинары</h1>
   <div>
-    <h1 class="page-heading">Последние семинары</h1>
+  <h4>      
+    <a href="{{site.baseurl}}/full_list/">Список всех семинаров на одной странице.</a>
+  </h4>  
 
-    <ul class="post-list">
-      {% for post in site.posts %}
+    <ul class="post-list">      
+      {% for post in paginator.posts %}
         <li class="post-list-item">
           <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -50,12 +52,23 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
-    <h4>
-      <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -->
-      <a href="{{site.baseurl}}/full_list/">Список всех семинаров на одной странице.</a>
-    </h4>
-
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
   </div>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Назад</a>
+    {% else %}
+      <span class="previous">Назад</span>
+    {% endif %}
+    <span class="page_number ">Страница: {{ paginator.page }} из {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Дальше</a>
+    {% else %}
+      <span class="next ">Дальше</span>
+    {% endif %}
+  </div>
+
+    
 </div>
