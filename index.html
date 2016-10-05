@@ -58,13 +58,13 @@ layout: default
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Назад</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.github.url}}" class="previous">Назад</a>
     {% else %}
       <span class="previous">Назад</span>
     {% endif %}
     <span class="page_number ">Страница: {{ paginator.page }} из {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Дальше</a>
+      <a href="{{ paginator.next_page_path | prepend: site.github.url}}" class="next">Дальше</a>
     {% else %}
       <span class="next ">Дальше</span>
     {% endif %}
