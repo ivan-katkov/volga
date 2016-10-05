@@ -20,7 +20,7 @@ markdown: kramdown
 
 timezone: Europe/Moscow
 
-paginate: 5
+paginate: 6
 # paginate_path: "/page:num/"
 
 # Plugins

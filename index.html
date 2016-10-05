@@ -56,17 +56,17 @@ layout: default
   </div>
 
   <!-- Pagination links -->
-  <div class="pagination">
+  <div class="pagination" style="text-align: center; margin-bottom: 15px">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.github.url}}" class="previous">Назад</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.github.url}}" class="previous">&larr;</a>
     {% else %}
-      <span class="previous">Назад</span>
+      <span class="previous">&larr;</span>
     {% endif %}
     <span class="page_number ">Страница: {{ paginator.page }} из {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.github.url}}" class="next">Дальше</a>
+      <a href="{{ paginator.next_page_path | prepend: site.github.url}}" class="next">&rarr;</a>
     {% else %}
-      <span class="next ">Дальше</span>
+      <span class="next ">&rarr;</span>
     {% endif %}
   </div>
 
