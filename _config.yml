@@ -25,4 +25,5 @@ paginate_path: "/page:num/"
 
 # Plugins
 # whitelist: []
-gems:      [jekyll-paginate]
+gems:
+   - jekyll-paginate
