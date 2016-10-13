@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Семинар #46"
+date:   2016-10-12 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: 
+Обсуждение новостей arXiv.
+
+## Докладчики:
+
+### Анатолий Засов
+
+- S. Boissier - [The properties of the Malin 1 galaxy giant disk: A panchromatic view from the NGVS and GUViCS surveys](http://arxiv.org/abs/1610.00918v1)
+
+### Ольга Сильченко
+
+- Allison Merritt et al. - [The Dragonfly Nearby Galaxies Survey. II. Ultra diffuse galaxies near the elliptical galaxy NGC 5485](http://arxiv.org/abs/1610.01609)
+- Edmund Hodges-Kluck, Julian Cafmeyer, Joel Bregman - [Ultraviolet Halos Around Spiral Galaxies. I. Morphology](http://arxiv.org/abs/1610.02404)
+- Richard de Grijs, Giuseppe Bono - [Clustering of Local Group distances: publication bias or correlated measurements? IV. The Galactic Center](http://arxiv.org/abs/1610.02457)
+
+[Презентация]({{ site.github.url }}/downloads/astroph44.pdf)
+
