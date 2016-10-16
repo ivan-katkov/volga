@@ -9,7 +9,7 @@ date:   2016-07-28 16:00:00 +0300
 
 ### Ольга Сильченко 
 
-[Презентация]({{ site.github.url }}/downloads/astroph42.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/astroph42.pdf)
 
 - [An Improved Distance and Mass Estimate for Sgr A* from a Multistar Orbit Analysis](http://arxiv.org/abs/1607.05726)
 - [The supermassive black hole and double nucleus of the core elliptical NGC5419](http://arxiv.org/abs/1607.06466)

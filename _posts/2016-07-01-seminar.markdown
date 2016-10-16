@@ -7,7 +7,7 @@ date:   2016-07-01 14:00:00 +0300
 ## Повестка: 
 Сообщение Антона Афанасьева студента 3-го курса ФФ МГУ
 
-[Презентация]({{ site.github.url }}/downloads/dynamical_modeling_М60UCD1.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/dynamical_modeling_М60UCD1.pdf)
 
 ### Динамическое моделирование звёздного населения M60UCD1 
 

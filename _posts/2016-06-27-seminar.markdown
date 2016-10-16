@@ -11,13 +11,13 @@ date:   2016-06-27 16:00:00 +0300
 
 ### Иван Катков
 
-[Презентация]({{ site.github.url }}/downloads/astroph_160627_IK.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/astroph_160627_IK.pdf)
 
 - [Detection of Prominent Stellar Disks in the Progenitors of Present-day Massive Elliptical Galaxies](http://arxiv.org/abs/1606.07571)
 
 ### Ольга Сильченко 
 
-[Презентация]({{ site.github.url }}/downloads/astroph41.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/astroph41.pdf)
 
 - [The ALMA Redshift 4 Survey (AR4S): I. The massive end of the z=4 main sequence of galaxies](http://arxiv.org/abs/1606.06252)
 - [A High Stellar Velocity Dispersion and ~100 Globular Clusters for the Ultra Diffuse Galaxy Dragonfly 44](http://arxiv.org/abs/1606.06291)
@@ -29,7 +29,7 @@ date:   2016-06-27 16:00:00 +0300
 
 ### Алексей Моисеев
 
-[Презентация]({{ site.github.url }}/downloads/VOLGA_Moiseev_160627.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/VOLGA_Moiseev_160627.pdf)
 
 - [Instruments on large optical telescopes -- A case study](http://arxiv.org/abs/1606.06674)
 - [New telescope designs suitable for massively-multiplexed spectroscopy](https://arxiv.org/abs/1606.06494)

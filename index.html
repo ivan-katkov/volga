@@ -31,7 +31,7 @@ layout: default
   <h1>Последние семинары</h1>
   <div>
   <h4>      
-    <a href="{{ site.github.url }}/full_list.html">Список всех семинаров на одной странице.</a>
+    <a href="{{ site.baseurl  }}/full_list.html">Список всех семинаров на одной странице.</a>
   </h4>  
 
     <ul class="post-list">      
@@ -58,13 +58,13 @@ layout: default
   <!-- Pagination links -->
   <div class="pagination" style="text-align: center; margin-bottom: 15px">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.github.url}}" class="previous">&larr;</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">&larr;</a>
     {% else %}
       <span class="previous">&larr;</span>
     {% endif %}
     <span class="page_number ">Страница: {{ paginator.page }} из {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.github.url}}" class="next">&rarr;</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">&rarr;</a>
     {% else %}
       <span class="next ">&rarr;</span>
     {% endif %}

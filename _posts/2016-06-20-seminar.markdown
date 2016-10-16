@@ -11,7 +11,7 @@ date:   2016-06-20 16:00:00 +0300
 
 ### Анна Мельник
 
-[Презентация]({{ site.github.url }}/downloads/melnik_review_speights_rooke.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/melnik_review_speights_rooke.pdf)
 
 - [The Dynamical Relationship Between the Bar and Spiral Patterns of NGC 1365][link1]
 
@@ -23,13 +23,13 @@ date:   2016-06-20 16:00:00 +0300
 
 ### Олег Егоров
 
-[Презентация]({{ site.github.url }}/downloads/Egorov_arxiv_140616.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/Egorov_arxiv_140616.pdf)
 
 - [Photoionization models of the CALIFA HII regions. I. Hybrid models][link3]
 
 ### Ольга Сильченко 
 
-[Презентация]({{ site.github.url }}/downloads/astroph40.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/astroph40.pdf)
 
 - [A Photometrically and Spectroscopically Confirmed Population of Passive Spiral Galaxies][link4]
 - [Size growth of red-sequence early-type galaxies in clusters in the last 10 Gyr][link5]

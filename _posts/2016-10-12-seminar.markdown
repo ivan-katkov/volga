@@ -19,5 +19,5 @@ date:   2016-10-12 16:00:00 +0300
 - Edmund Hodges-Kluck, Julian Cafmeyer, Joel Bregman - [Ultraviolet Halos Around Spiral Galaxies. I. Morphology](http://arxiv.org/abs/1610.02404)
 - Richard de Grijs, Giuseppe Bono - [Clustering of Local Group distances: publication bias or correlated measurements? IV. The Galactic Center](http://arxiv.org/abs/1610.02457)
 
-[Презентация]({{ site.github.url }}/downloads/astroph44.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/astroph44.pdf)
 
