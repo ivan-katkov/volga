@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Семинар #48"
+date:   2016-10-26 14:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Анастасия Каспарова
+
+- Marc-Antoine Miville-Deschênes et al. - [Physical properties of molecular clouds for the entire Milky Way disk](https://arxiv.org/abs/1610.05918)
+
+- Как получается шкала толстого диска короче, чем тонкого?
+
+[Презентация]({{ site.baseurl }}/downloads/26okt16.pdf)
+
+***
+
+### Иван Катков
+
+- Jin, Yifei et al. - [SDSS-IV MaNGA: properties of galaxies with kinematically decoupled stellar and gaseous components](http://adsabs.harvard.edu/abs/2016MNRAS.463..913J)
+
+***
+
+### Анатолий Засов
+
+- Casey Papovich et al. - [Large Molecular Gas Reservoirs in Ancestors of Milky Way-Mass Galaxies 9 Billion Years Ago](https://arxiv.org/abs/1610.05313)
+
+- Fumi Egusa et al. - [Gas and stellar spiral arms and their offsets in the grand-design spiral galaxy M51](https://arxiv.org/abs/1610.06642)
+
+[Презентация]({{ site.baseurl  }}/downloads/zasov26november2016.pdf)
+
+***
+
+### Ольга Сильченко
+
+- J. D. Simon et al. - [Nearest Neighbor: The Low-Mass Milky Way Satellite Tucana III](https://arxiv.org/abs/1610.05301)
+
+- Takashi Okamoto et al. - [The metal enrichment of passive galaxies in cosmological simulations of galaxy formation](https://arxiv.org/abs/1610.06578)
+
+
+[Презентация]({{ site.baseurl  }}/downloads/astroph45.pdf)
+
+***
