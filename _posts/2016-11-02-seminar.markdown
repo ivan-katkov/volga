@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Семинар #49"
+date:   2016-10-26 14:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Ольга Сильченко
+
+- Neven Caplar, Sandro Tacchella, Simon Birrer - [Quantitative Evaluation of Gender Bias in Astronomical Publications from Citation Counts](https://arxiv.org/abs/1610.08984)
+
+- Evan N. Kirby et al. - [Chemistry and Kinematics of the Late-Forming Dwarf Irregular Galaxies Leo A, Aquarius, and Sagittarius DIG](https://arxiv.org/abs/1610.08505)
+
+- Javier Román, Ignacio Trujillo - [Ultra diffuse galaxies outside clusters: clues to their formation and evolution](https://arxiv.org/abs/1610.08980)
+
+
+[Презентация]({{ site.baseurl  }}/downloads/astroph46.pdf)
+
+***

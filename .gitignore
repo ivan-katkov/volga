@@ -1,0 +1,11 @@
+_site
+__site
+_includes
+img
+browserconfig.xml
+favicon*
+feed.xml
+manifest.json
+.sass-cache
+.jekyll-metadata
+.DS_Store
