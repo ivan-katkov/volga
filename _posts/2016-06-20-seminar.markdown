@@ -4,16 +4,17 @@ title:  "Семинар #40"
 date:   2016-06-20 16:00:00 +0300
 <!-- categories: jekyll update -->
 ---
-## Повестка: 
-Обсуждение новостей arXiv.
+## Повестка: Обсуждение новостей arXiv.
 
-## Докладчики:
+***
 
 ### Анна Мельник
 
-[Презентация]({{ site.baseurl  }}/downloads/melnik_review_speights_rooke.pdf)
-
 - [The Dynamical Relationship Between the Bar and Spiral Patterns of NGC 1365][link1]
+
+[Презентация]({{ site.baseurl  }}/downloads/160620/melnik_review_speights_rooke.pdf)
+
+***
 
 ### Иван Катков
 
@@ -21,21 +22,28 @@ date:   2016-06-20 16:00:00 +0300
 
 Работа про влияние boxy/peanut балджей на приток газа в центральном килопарсеке.
 
+***
+
 ### Олег Егоров
 
-[Презентация]({{ site.baseurl  }}/downloads/Egorov_arxiv_140616.pdf)
 
 - [Photoionization models of the CALIFA HII regions. I. Hybrid models][link3]
 
+[Презентация]({{ site.baseurl  }}/downloads/160620/Egorov_arxiv_140616.pdf)
+
+***
+
 ### Ольга Сильченко 
 
-[Презентация]({{ site.baseurl  }}/downloads/astroph40.pdf)
-
 - [A Photometrically and Spectroscopically Confirmed Population of Passive Spiral Galaxies][link4]
+
 - [Size growth of red-sequence early-type galaxies in clusters in the last 10 Gyr][link5]
+
 - [The mass-discrepancy acceleration relation in early-type galaxies: extended mass profiles and the phantom menace to MOND][link6]
 
+[Презентация]({{ site.baseurl  }}/downloads/160620/astroph40.pdf)
 
+***
 
 
 [link1]: http://arxiv.org/abs/1606.04572

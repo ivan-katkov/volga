@@ -4,26 +4,31 @@ title:  "Семинар #39"
 date:   2016-06-14 16:00:00 +0300
 <!-- categories: jekyll update -->
 ---
-## Повестка: 
-Обсуждение новостей arXiv.
+## Повестка: Обсуждение новостей arXiv.
 
-## Докладчики:
+***
 
 ### Анатолий Засов
 
-[Презентация]({{ site.baseurl  }}/downloads/Zasov_14Jun.pdf)
-
 - [Probing the magnetic field of the nearby galaxy pair Arp 269][link1]
+
 - [Another piece of the puzzle: the fast HI outflow in Mrk231][link2]
+
+[Презентация]({{ site.baseurl  }}/downloads/160614/Zasov_14Jun.pdf)
+
+***
 
 ### Ольга Сильченко 
 
-[Презентация]({{ site.baseurl  }}/downloads/astroph39.pdf)
-
 - [Surface Brightness Profiles of Dwarf Galaxies: II. Color Trends and Mass Profiles][link3]
+
 - [The ISLAndS project II: The Lifetime Star Formation Histories of Six Andromeda dSphs][link4]
+
 - [Variations of the initial mass function in semi-analytical models: implications for the chemical enrichment of galaxies in the GAEA model][link5]
 
+[Презентация]({{ site.baseurl  }}/downloads/160614/astroph39.pdf)
+
+***
 
 [link1]: http://arxiv.org/abs/1606.01699
 [link2]: http://arxiv.org/abs/1606.01640

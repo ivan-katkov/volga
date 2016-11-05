@@ -4,14 +4,20 @@ title:  "Семинар #43"
 date:   2016-07-28 16:00:00 +0300
 <!-- categories: jekyll update -->
 ---
-## Повестка: 
-Обсуждение новостей arXiv и впечатления от конференции ["Discs in galaxies"](http://www.eso.org/sci/meetings/2016/Discs2016.html) (Гархинг, 11-15 июля 2016) 
+## Повестка: Обсуждение новостей arXiv и впечатления от конференции: 
+
+### ["Discs in galaxies"](http://www.eso.org/sci/meetings/2016/Discs2016.html) (Гархинг, 11-15 июля 2016) 
+
+***
 
 ### Ольга Сильченко 
 
-[Презентация]({{ site.baseurl  }}/downloads/astroph42.pdf)
-
 - [An Improved Distance and Mass Estimate for Sgr A* from a Multistar Orbit Analysis](http://arxiv.org/abs/1607.05726)
+
 - [The supermassive black hole and double nucleus of the core elliptical NGC5419](http://arxiv.org/abs/1607.06466)
+
 - [Exponential Disks from Stellar Scattering: III. Stochastic Models](http://arxiv.org/abs/1607.07595)
 
+[Презентация]({{ site.baseurl  }}/downloads/160728/astroph42.pdf)
+
+***

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Семинар #49"
-date:   2016-10-26 14:00:00 +0300
+date:   2016-11-02 14:00:00 +0300
 <!-- categories: jekyll update -->
 ---
 ## Повестка: Обсуждение новостей arXiv.
@@ -17,6 +17,6 @@ date:   2016-10-26 14:00:00 +0300
 - Javier Román, Ignacio Trujillo - [Ultra diffuse galaxies outside clusters: clues to their formation and evolution](https://arxiv.org/abs/1610.08980)
 
 
-[Презентация]({{ site.baseurl  }}/downloads/astroph46.pdf)
+[Презентация]({{ site.baseurl  }}/downloads/161102/astroph46.pdf)
 
 ***
