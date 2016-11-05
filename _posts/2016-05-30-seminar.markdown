@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Семинар #37"
+date:   2016-05-30 14:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Иван Катков
+
+- Adrien Guérou, Eric Emsellem, Davor Krajnović et al. - [Exploring the mass assembly of the early-type disc galaxy NGC3115 with MUSE](https://arxiv.org/abs/1605.07667)
+
+[Презентация]({{ site.baseurl }}/downloads/160530/astroph_IK_160530_ls.pdf)
+
+***
+
+### Анатолий Засов
+
+- S.P.C. Peters, P.C. van der Kruit, R.J. Allen, K.C. Freeman - [The Shape of Dark Matter Haloes, V. Analysis of observations of edge-on galaxies](https://arxiv.org/abs/1605.08209)
+
+
+[Презентация]({{ site.baseurl }}/downloads/160530/30may2016.pdf)
+
+***
+
+### Ольга Сильченко
+
+- Aleksandr V. Mosenkov, Flor Allaert, Maarten Baes et al. - [HERschel Observations of Edge-on Spirals (HEROES). III. Dust energy balance study of IC 2531](https://arxiv.org/abs/1605.06239)
+
+- Francesco Belfiore, Roberto Maiolino, Claudia Maraston et al. - [SDSS IV MaNGA - Spatially resolved diagnostic diagrams: A proof that many galaxies are LIERs](https://arxiv.org/abs/1605.07189)
+
+
+[Презентация]({{ site.baseurl }}/downloads/160530/astroph37.pdf)
+
+***

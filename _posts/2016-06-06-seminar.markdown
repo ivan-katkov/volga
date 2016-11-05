@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Семинар #38"
+date:   2016-06-06 14:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Анатолий Засов
+
+- Raymond C. Simons et al. - [Kinematic Downsizing at z~2](https://arxiv.org/abs/1606.00009)
+
+- Michael Rodruck et al. - [A Tale of Two Tails: Exploring Stellar Populations in the Tidal Tails of NGC 3256](https://arxiv.org/abs/1606.00008)
+
+[Презентация]({{ site.baseurl  }}/downloads/160606/zasov_06_june16.pdf)
+
+***
+
+### Ольга Сильченко
+
+- Florian Pranger, Ignacio Trujillo, Lee S. Kelvin, María Cebrián - [The effect of environment on the structure of disc galaxies](https://arxiv.org/abs/1605.08845)
+
+- Jenny E. Greene, Anil C. Seth, Minjin Kim et al. - [Megamaser Disks Reveal a Broad Distribution of Black Hole Mass in Spiral Galaxies](https://arxiv.org/abs/1606.00018)
+
+
+[Презентация]({{ site.baseurl  }}/downloads/160606/astroph38.pdf)
+
+***
