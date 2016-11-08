@@ -72,3 +72,57 @@ layout: default
 
     
 </div>
+
+
+<button type="button" id="button">Загрузить абстракт</button>
+<p id="abs"></p>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['{','}'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+<script type="text/javascript">
+
+  var abs= document.getElementById('abs');
+  var button= document.getElementById('button');
+
+  button.onclick = function(){
+
+      abs.innerHTML = 'Loading...'
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET","http://export.arxiv.org/api/query?id_list=1611.01616",true);
+      xhr.send();
+      xhr.onreadystatechange = function() { // (3)
+        if (xhr.readyState != 4) return;
+
+        button.innerHTML = 'Готово!';
+
+        if (xhr.status != 200) {
+          alert(xhr.status + ': ' + xhr.statusText);
+        } else {
+          xml = xhr.responseXML;          
+          title = xml.getElementsByTagName("title")[1].innerHTML
+          names = xml.getElementsByTagName("name")
+          summary = xml.getElementsByTagName("summary")[0].innerHTML
+          abs.innerHTML = summary;
+          MathJax.Hub.Queue(["Typeset", MathJax.Hub, abs]);
+        }
+
+      }
+
+      button.innerHTML = 'Загружаю...'; // (2)
+      button.disabled = true;
+
+      // alert(httpGetAsync("file:///Users/katkov/Desktop/astro-ph_VOLGA/volga/_site/full_list.html"));
+      // (1)      
+      
+  }
+
+</script>
+
+
+
+<!-- <button onclick="myFunction('https://arxiv.org/abs/1610.08980')">Try it</button> -->
