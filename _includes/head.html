@@ -24,6 +24,7 @@
   // var button= document.getElementById('button_{{ include.param | replace: '.' '_' }}');
 
   function load_abstract( id ){    
+    var nms = document.getElementById('names_'+id);
   	var abs = document.getElementById('a_'+id);
   	var button = document.getElementById(id);
   	
@@ -41,10 +42,19 @@
           alert(xhr.status + ': ' + xhr.statusText);
         } else {
           xml = xhr.responseXML;          
-          title = xml.getElementsByTagName("title")[1].innerHTML
-          names = xml.getElementsByTagName("name")
+          // title = xml.getElementsByTagName("title")[1].innerHTML          
           summary = xml.getElementsByTagName("summary")[0].innerHTML
           abs.innerHTML = summary;
+
+          names = xml.getElementsByTagName("name")                    
+          full_names = "";
+          delimiter = ", ";          
+          for (q = 0; q < names.length; q++) {
+            if (q == (names.length - 1)) delimiter = ""; 
+            full_names += names[q].innerHTML+delimiter
+          }          
+          nms.innerHTML = full_names;          
+          
           MathJax.Hub.Queue(["Typeset", MathJax.Hub, abs]);
         }
 
