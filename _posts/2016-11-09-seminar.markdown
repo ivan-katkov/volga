@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Семинар #50"
+date:   2016-11-09 16:30:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Впечатления о конференции и новости arXiv
+
+***
+
+### ["The galaxy life-cycle From activity to quiescence, and back, across cosmic times"](http://galaxylifecycle.wixsite.com/gal2016)
+
+(24-28 October 2016, Venice, Italy)
+
+***
+
+### Алексей Моисеев
+
+[Презентация]({{ site.baseurl  }}/downloads/161109/VOLGA_Moiseev_161109.pdf)
+
+***
+
+### Евгения Егорова
+
+[Презентация]({{ site.baseurl  }}/downloads/161109/Egorova091116.pdf)
+
+- Yan-Mei Chen, Yong Shi, Christy A. Tremonti et al. - [The growth of the central region by acquisition of counter-rotating gas in star-forming galaxies](http://arxiv.org/abs/1611.00480)
+{% include abstract.html param="1611.00480"%}
+
+- Yifei Jin, Yanmei Chen, Yong Shi et al. - [SDSS-IV MaNGA: Properties of galaxies with kinematically decoupled stellar and gaseous components](https://arxiv.org/abs/1611.00528)
+{% include abstract.html param="1611.00528"%}
+
+
+***

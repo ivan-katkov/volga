@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Семинар #47"
-date:   2016-10-18 14:00:00 +0300
+date:   2016-10-18 16:00:00 +0300
 <!-- categories: jekyll update -->
 ---
 ## Повестка: Впечатления о конференции
@@ -10,7 +10,7 @@ date:   2016-10-18 14:00:00 +0300
 
 ### **Анна Мельник**  
 
-### ["The Milky Way and its environment: gaining insights into the drivers of galaxy formation and evolution"](http://www.iap.fr/vie_scientifique/ateliers/MilkyWay_Workshop/2016/)"
+### ["The Milky Way and its environment: gaining insights into the drivers of galaxy formation and evolution"](http://www.iap.fr/vie_scientifique/ateliers/MilkyWay_Workshop/2016/)
 
 (Institut d'Astrophysique de Paris
 in Paris, France 19-23 September  2016)
