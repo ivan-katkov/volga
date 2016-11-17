@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Семинар #51"
+date:   2016-11-16 16:30:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Текущие результаты, впечатления о конференции и новости arXiv
+
+***
+
+### **Ирина Смирнова-Пинчукова**
+(магистрантка 2-го года обучения ФФ МГУ)
+
+### NGC 3259: предварительные результаты глубокой спектроскопии на БТА
+
+[Презентация]({{ site.baseurl  }}/downloads/161116/NGC3259.pdf)
+
+***
+
+
+### **Егоров Олег**
+
+### Новости с конференции: ["Chemical abundances in gaseous nebulae"](http://www.univap.br/universidade/instituto-de-pesquisa/agenda-e-eventos/chemical-abundances-in-gaseous-nebulae.html)
+
+(Кампос до Жордао, Бразилия, 2-5 ноября 2016)
+
+[Презентация]({{ site.baseurl  }}/downloads/161116/Egorov_conf_161116.pdf)
+
+***
+
+### **Алексей Моисеев**
+
+- Huanian Zhang et al. - [Hydrogen Emission from the Ionized Gaseous Halos of Low Redshift Galaxies](http://arxiv.org/abs/1611.00004)
+{% include abstract.html param="1611.00004"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161116/VOLGA_Moiseev_161116.pdf)
+
+***
