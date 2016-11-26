@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Семинар #52"
+date:   2016-11-23 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: впечатления о конференции и новости arXiv
+
+***
+
+### Елена Глушкова
+
+- #### Новости с конференции: ["Star Clusters: From Infancy to Teenagehood"](http://wwwstaff.ari.uni-heidelberg.de/infant_clusters_2016/)
+(Max-Plank Haus, Heidelberg, Germany, 8 – 12 August 2016)
+
+[Презентация]({{ site.baseurl  }}/downloads/161123/Glushkova_231116_lr.pdf)
+
+***
+
+### Алексей Моисеев
+
+- Giuliano Iorio et al. - [LITTLE THINGS in 3D: robust determination of the circular velocity of dwarf irregular galaxies](http://arxiv.org/abs/1611.03865)
+{% include abstract.html param="1611.03865"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161123/VOLGA_Moiseev_161123.pdf)
+
+***
+
+### Иван Катков
+
+- Heikki Salo & Eija Laurikainen - [Boxy/Peanut/X-shape bulges: steep inner rotation curve leads to barlens face-on morphology](http://arxiv.org/abs/1611.03212)
+{% include abstract.html param="1611.03212"%}
+
+***
