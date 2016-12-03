@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Семинар #53"
+date:   2016-12-01 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Сова на Волге и новости arXiv
+<!-- ![Семинар отдела внегалактической астрономии](/downloads/sova.jpg =250x "Семинар отдела внегалактической астрономии") -->
+<img style="float: inline; width: 175px;" src="{{ site.baseurl  }}/downloads/sova.jpg ">
+
+***
+
+### Содержание атомарного газа и устойчивость газового слоя в дисках галактик
+
+### **А.В.Засов**, Н. Зайцева
+
+Анализируется зависимость интегральной массы водорода  $M_{HI}$ в звездообразующих галактиках от скорости вращения $V_{rot}$, и размера диска ($D_25$) или радиальной шкалы $R_d$. Сравнение наблюдаемых и теоретических зависимостей между $M_{HI}$ и удельным угловым моментом для маржинально устойчивых газовых дисков приводит к выводу о том, что либо гравитационная устойчивость соответствует значительно более высоким значениям параметра Тумре, чем в случае азимутально однородных дисков, либо условие пороговой устойчивости газовых дисков большинства галактик выполнялось лишь в прошлом, когда масса газа в дисках была в 2-4 раза выше, чем в настоящее время. Последнее условие требует, чтобы для большинства галактик потеря газа на звездообразование не компенсировалась внешней аккрецией газа на диск.
+
+[Презентация]({{ site.baseurl  }}/downloads/161201/HI_content_stablility_Zasov.pdf)
+
+***
+
+### Ольга Сильченко
+
+- Augustus Oemler Jr et al. - [The Star Formation Histories of Disk Galaxies: the Live, the Dead, and the Undead](https://arxiv.org/abs/1611.05932)
+{% include abstract.html param="1611.05932"%}
+
+- Leah M. Fulmer, John S. Gallagher III, Ralf Kotulla - [NGC 5523: An Isolated Product of Soft Galaxy Mergers?](https://arxiv.org/abs/1611.05968)
+{% include abstract.html param="1611.05968"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161201/astroph47.pdf)
+
+***
+
+### Олег Егоров
+
+- Dalya Baron, Dovi Poznanski - [The weirdest SDSS galaxies: results from an outlier detection algorithm](https://arxiv.org/abs/1611.07526)
+{% include abstract.html param="1611.07526"%}
+
+- A. Olmo-Garcia et al. - [Kinematics of Extremely Metal-poor Galaxies: Evidence for Stellar Feedback](https://arxiv.org/abs/1611.07426)
+{% include abstract.html param="1611.07426"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161201/Egorov_arxiv_011216.pdf)
+
+***
