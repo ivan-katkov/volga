@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Семинар #54"
+date:   2016-12-14 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Ольга Сильченко
+
+- Matias Blana et al. - [Andromeda chained to the Box -- Dynamical Models for M31: Bulge & Bar](https://arxiv.org/abs/1612.02319)
+{% include abstract.html param="1612.02319"%}
+
+- Mariska Kriek et al. - [A massive, quiescent, population II galaxy at a redshift of 2.1](https://arxiv.org/abs/1612.02001)
+{% include abstract.html param="1612.02001"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161214/astroph48_lr.pdf)
+
+***
+
+### Анатолий Засов
+
+- D. V. Bizyaev et al. - [Very Thin Disc Galaxies in The SDSS Catalog of Edge-on Galaxies](https://arxiv.org/abs/1612.01042)
+{% include abstract.html param="1612.01042"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161214/bizyaev.pdf)
+
+***
