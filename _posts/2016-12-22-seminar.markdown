@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Семинар #55"
+date:   2016-12-22 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Сообщение Сергея Копосова и новости arXiv.
+
+***
+
+### Обзор первых результатов спутника Gaia
+
+### **Сергей Копосов**
+
+В этом году после двух лет работы коллаборация Gaia выпустила первую
+версию каталога объектов. Несмотря на то, что каталог содержит только
+небольшую долю той информации, которая будет доступна в следующих
+версиях, первые научные результаты основанные на данных Gaia уже
+начали появляться. В своем докладе я планирую рассказать о самом
+спутнике Gaia, о том какие данные доступны сейчас и будут доступны
+через год, а также о тех первых результатах, которые получены за
+последние месяцы.
+
+[Презентация]({{ site.baseurl  }}/downloads/161222/koposov.pdf)
+
+***
+
+### Ольга Сильченко
+
+- Semyeong Oh, Jenny E. Greene, Claire N. Lackner - [Testing the presence of multiple photometric components in nearby early-type galaxies using SDSS](https://arxiv.org/abs/1612.06495)
+{% include abstract.html param="1612.06495"%}
+
+- Rebecca J. Allen et al. - [The Size Evolution of Star-forming Galaxies Since z~7 Using ZFOURGE](https://arxiv.org/abs/1612.05262)
+{% include abstract.html param="1612.05262"%}
+
+- D. A. Coulter - [Testing the Universality of the Stellar IMF with Chandra and HST](https://arxiv.org/abs/1612.05189)
+{% include abstract.html param="1612.05189"%}
+
+- Jakob Herpich et al. - [Galactic disc profiles and a universal angular momentum distribution from statistical physics](https://arxiv.org/abs/1612.03171)
+{% include abstract.html param="1612.03171"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/161222/astroph49.pdf)
+
+
+
+
