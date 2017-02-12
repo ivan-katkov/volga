@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Семинар #56"
+date:   2017-01-17 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Иван Катков
+
+- Alireza Molaeinezhad et al. - [The imprints of bars on the vertical stellar population gradients of galactic bulges](https://arxiv.org/abs/1701.03466)
+{% include abstract.html param="1701.03466"%}
+
+***
+
+### Ольга Сильченко
+
+- Bumhyun Lee et al. - [The effect of ram pressure on the molecular gas of galaxies: three case studies in the Virgo cluster](https://arxiv.org/abs/1701.02750)
+{% include abstract.html param="1701.02750"%}
+
+- Oliver Müller et al. - [The M101 group complex: new dwarf galaxy candidates and spatial structure](https://arxiv.org/abs/1701.03681)
+{% include abstract.html param="1701.03681"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170117/astroph50_lr.pdf)
+
+***
+
+### Анатолий Засов
+
+- Davi C. Rodrigues et al. - [Evidences against cuspy dark matter halos in large galaxies](https://arxiv.org/abs/1701.02698)
+{% include abstract.html param="1701.02698"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170117/A-ph1701.pdf)
+
+
+
+
+
+
