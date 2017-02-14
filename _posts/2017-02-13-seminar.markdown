@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Семинар #58"
+date:   2017-02-13 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Иван Катков
+
+- Elisa Portaluri et al. - [The kinematics of σ-drop bulges from spectral synthesis modelling of a hydrodynamical simulation](https://arxiv.org/abs/1702.02162)
+{% include abstract.html param="1702.02162"%}
+
+***
+
+### Ольга Сильченко
+
+- Angus Mok et al. - [The JCMT Nearby Galaxies Legacy Survey -- XI. -- Environmental Variations in the Atomic and Molecular Gas Radial Profiles of Nearby Spiral Galaxies](https://arxiv.org/abs/1702.02118)
+{% include abstract.html param="1702.02118"%}
+
+- Moein Mosleh et al. - [Connection Between Stellar Mass Distributions Within Galaxies and Quenching Since z=2](https://arxiv.org/abs/1702.02392)
+{% include abstract.html param="1702.02392"%}
+
+- J. Xavier Prochaska et al. - [The COS-Halos Survey: Metallicities in the Low-Redshift Circumgalactic Medium](https://arxiv.org/abs/1702.02618)
+{% include abstract.html param="1702.02618"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170213/astroph52_lr.pdf)
+
+***
+
+### Анатолий Засов
+
+- L. S. Aramyan et al. - [The Distribution of Supernovae Relative to Spiral Arms of Host Disc Galaxies](https://arxiv.org/abs/1702.01580)
+{% include abstract.html param="1702.01580"%}
+
+- Claire Cashmore et al. - [Too small to succeed: the difficulty of sustaining star formation in low-mass haloes](https://arxiv.org/abs/1702.01760)
+{% include abstract.html param="1702.01760"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170213/zasov_13feb_lr.pdf)
+
+
+
+
+
+
