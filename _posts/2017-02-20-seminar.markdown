@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Семинар #59"
+date:   2017-02-20 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Иван Катков
+
+- Shany Danieli et al. - [The Dragonfly Nearby Galaxies Survey. III. The Luminosity Function of the M101 Group](https://arxiv.org/abs/1702.04727)
+{% include abstract.html param="1702.04727"%}
+
+- Lihwai Lin et al. - [SDSS IV MaNGA: Discovery of an Hα blob associated with a dry galaxy pair -- ejected gas or a `dark' galaxy candidate?](https://arxiv.org/abs/1702.02464)
+{% include abstract.html param="1702.02464"%}
+
+***
+
+### Ольга Сильченко
+
+- N. Scoville et al. - [Evolution of Interstellar Medium, Star Formation, and Accretion at High Redshift](https://arxiv.org/abs/1702.04729)
+{% include abstract.html param="1702.04729"%}
+
+- Bram Venemans et al. - [The compact, ~1 kpc host galaxy of a quasar at z=7.1](https://arxiv.org/abs/1702.03852)
+{% include abstract.html param="1702.03852"%}
+
+- Erin Kado-Fong et al. - [Near-infrared spectroscopy of 5 ultra-massive galaxies at 1.7 < z < 2.7](https://arxiv.org/abs/1702.04352)
+{% include abstract.html param="1702.04352"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170220/astroph53_lr.pdf)
