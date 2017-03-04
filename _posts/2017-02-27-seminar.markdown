@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Семинар #60"
+date:   2017-02-27 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Ольга Сильченко
+
+- Padraig D. Alton et al. - [KINETyS: Constraining spatial variations of the stellar initial mass function in early-type galaxies](https://arxiv.org/abs/1702.05485)
+{% include abstract.html param="1702.05485"%}
+
+- Mukremin Kilic et al. - [The Ages of the Thin Disk, Thick Disk, and the Halo from Nearby White Dwarfs](https://arxiv.org/abs/1702.06984)
+{% include abstract.html param="1702.06984"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170227/astroph54_lr.pdf)
+
+***
+
+### Евгения Егорова
+
+- William Janesh et al. - [Detection of an Optical Counterpart to the ALFALFA Ultra-compact High Velocity Cloud AGC 249525](https://arxiv.org/abs/1702.07282)
+{% include abstract.html param="1702.07282"%}
+
+***
+
+### Олег Егоров
+
+- Brian Devour & Eric Bell - [Revealing strong bias in common measures of galaxy properties using new inclination-independent structures](https://arxiv.org/abs/1702.06528)
+{% include abstract.html param="1702.06528"%}
