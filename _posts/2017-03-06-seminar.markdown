@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Семинар #61"
+date:   2017-03-06 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Анатолий Засов
+
+- David B. Fisher et al. - [Connecting Clump Sizes in Turbulent Disk Galaxies to Instability Theory](https://arxiv.org/abs/1703.00458)
+{% include abstract.html param="1703.00458"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170306/Fisher17-Green_lr.pdf)
+
+***
+
+### Евгения Егорова
+
+- Robin Kooistra et al. - [Filament Hunting: Integrated HI 21cm Emission From Filaments Inferred by Galaxy Surveys](https://arxiv.org/abs/1702.07725)
+{% include abstract.html param="1702.07725"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170306/Egorova060317_lr.pdf)
+
+***
+
+### Ольга Сильченко
+
+- Joseph Smidt et al. - [The Formation of the First Quasars in the Universe](https://arxiv.org/abs/1703.00449)
+{% include abstract.html param="1703.00449"%}
+
+- J. A. L. Aguerri et al. - [Deep spectroscopy in nearby galaxy clusters: III Orbital structure of galaxies in Abell 85](https://arxiv.org/abs/1703.00740)
+{% include abstract.html param="1703.00740"%}
+
+- L. Magrini et al. - [The Gaia-ESO Survey: radial distribution of abundances in the Galactic disc from open clusters and young field stars](https://arxiv.org/abs/1703.00762)
+{% include abstract.html param="1703.00762"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170306/astroph55_lr.pdf)
+
+***
