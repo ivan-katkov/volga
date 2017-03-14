@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Семинар #62"
+date:   2017-03-13 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Анатолий Засов
+
+- Yuma Sugahara et al. - [Evolution of Galactic Outflows at $z∼0-2$ Revealed with SDSS, DEEP2, and Keck spectra](https://arxiv.org/abs/1703.01885)
+{% include abstract.html param="1703.01885"%}
+
+- Evan N. Kirby et al. - [Triangulum II: Not Especially Dense After All](https://arxiv.org/abs/1703.02978)
+{% include abstract.html param="1703.02978"%}
+
+- A. Paccagnella et al. - [OmegaWINGS: The first complete census of post starburst galaxies in clusters in the local universe](https://arxiv.org/abs/1703.03204)
+{% include abstract.html param="1703.03204"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170313/zasov_march17_lr.pdf)
+
+***
+
+### Алексей Моисеев
+
+- Ross E. Hart et al. - [Galaxy Zoo: star-formation versus spiral arm number](https://arxiv.org/abs/1703.02053)
+{% include abstract.html param="1703.02053"%}
+
+- N. Peschken, E. Athanassoula, S. A. Rodionov - [Forming disc galaxies in major mergers: III. The effect of angular momentum on the radial density profiles of disc galaxies](https://arxiv.org/abs/1703.00916)
+{% include abstract.html param="1703.00916"%}
+
+- Mark Lacy et al. - [ALMA observations of the interaction of a radio jet with molecular gas in Minkowski's Object](https://arxiv.org/abs/1703.03006)
+{% include abstract.html param="1703.03006"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170313/VOLGA_Moiseev_170313_lr.pdf)
+
+***
+
+### Иван Катков
+
+- Jennifer Kadowaki, Dennis Zaritsky, R. L. Donnerstein - [Spectroscopy of Ultra-diffuse Galaxies in the Coma Cluster](https://arxiv.org/abs/1703.02042)
+{% include abstract.html param="1703.02042"%}
+
+***
+
+### Ольга Сильченко
+
+- Peter Erwin, Victor P. Debattista - [The Frequency and Stellar-Mass Dependence of Boxy/Peanut-Shaped Bulges in Barred Galaxies](https://arxiv.org/abs/1703.01602)
+{% include abstract.html param="1703.01602"%}
+
+- L. Costantin et al. - [No evidence for small disk-like bulges in a sample of late-type spirals](https://arxiv.org/abs/1703.02976)
+{% include abstract.html param="1703.02976"%}
+
+- Dante Minniti et al. - [FSR 1716: A new Milky Way Globular Cluster confirmed using VVV RR Lyrae stars](https://arxiv.org/abs/1703.02033)
+{% include abstract.html param="1703.02033"%}
+
+- R. Gobat et al. - [The surprisingly large dust and gas content of quiescent galaxies at z>1.4](https://arxiv.org/abs/1703.02207)
+{% include abstract.html param="1703.02207"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170313/astroph56_lr.pdf)
+
+***
