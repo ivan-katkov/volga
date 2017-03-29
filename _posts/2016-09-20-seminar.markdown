@@ -1,9 +1,10 @@
 ---
+title: 'Семинар #44'
+date: 2016-09-20 17:00:00 +03:00
 layout: post
-title:  "Семинар #44"
-date:   2016-09-20 17:00:00 +0300
-<!-- categories: jekyll update -->
+"<!-- categories": jekyll update -->
 ---
+
 ## Повестка: Сова на Волге 
 <!-- ![Семинар отдела внегалактической астрономии](/downloads/sova.jpg =250x "Семинар отдела внегалактической астрономии") -->
 <img style="float: inline; width: 175px;" src="{{ site.baseurl  }}/downloads/sova.jpg ">
