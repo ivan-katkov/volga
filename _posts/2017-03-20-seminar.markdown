@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Семинар #63"
+date:   2017-03-20 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Евгения Егорова
+
+- E. Papastergis et al. - [The HI content of isolated ultra-diffuse galaxies: a sign of multiple formation mechanisms?](https://arxiv.org/abs/1703.05610)
+{% include abstract.html param="1703.05610"%}
+
+- Lukas Leisman et al. - [(Almost) Dark Galaxies in the ALFALFA Survey: Isolated HI Bearing Ultra Diffuse Galaxies](https://arxiv.org/abs/1703.05293)
+{% include abstract.html param="1703.05293"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170320/Egorova200317_lr.pdf)
+
+***
+
+### Ольга Сильченко
+
+- P. Lang et al. - [Falling outer rotation curves of star-forming galaxies at 0.6 < z < 2.6 probed with KMOS^3D and SINS/ZC-SINF](https://arxiv.org/abs/1703.05491)
+{% include abstract.html param="1703.05491"%}
+
+- R. Genzel et al. - [Strongly baryon-dominated disk galaxies at the peak of galaxy formation ten billion years ago](https://arxiv.org/abs/1703.04310)
+{% include abstract.html param="1703.04310"%}
+
+- &#xdc;bler, H. et al. - [The evolution of the Tully-Fisher relation between $z\sim2.3$ and
+  $z\sim0.9$ with KMOS$^{\rm 3D}$](https://arxiv.org/abs/1703.04321)
+{% include abstract.html param="1703.04321"%}
+
+- K. Onishi et al. - [WISDOM Project - I: Black Hole Mass Measurement Using Molecular Gas Kinematics in NGC 3665](https://arxiv.org/abs/1703.05247)
+{% include abstract.html param="1703.05247"%}
+
+- Timothy A. Davis et al. - [WISDOM Project - II: Molecular gas measurement of the supermassive black hole mass in NGC4697](https://arxiv.org/abs/1703.05248)
+{% include abstract.html param="1703.05248"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170320/astroph57_lr.pdf)
+
+***
