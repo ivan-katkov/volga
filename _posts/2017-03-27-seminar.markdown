@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Семинар #64"
+date:   2017-03-27 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Обсуждение новостей arXiv.
+
+***
+
+### Ольга Сильченко
+
+- Chris Harrison - [Impact of supermassive black hole growth on star formation](https://arxiv.org/abs/1703.06889)
+{% include abstract.html param="1703.06889"%}
+
+- David Harvey et al. - [A detection of wobbling Brightest Cluster Galaxies within massive galaxy clusters](https://arxiv.org/abs/1703.07365)
+{% include abstract.html param="1703.07365"%}
+
+- Belli, Sirio et al. - [KMOS-3D Reveals Low-Level Star Formation Activity in Massive Quiescent Galaxies at 0.7 < z < 2.7](https://arxiv.org/abs/1703.07778)
+{% include abstract.html param="1703.07778"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/170327/astroph58_lr.pdf)
+
+***
+
+### Евгения Егорова
+
+- Yu Rong et al. - [A Universe of Ultra-Diffuse Galaxies: Theoretical Predictions from The $\Lambda$CDM Simulation](https://arxiv.org/abs/1703.06147)
+{% include abstract.html param="1703.06147"%}
+
+***
