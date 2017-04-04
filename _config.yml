@@ -1,29 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: VOLGA seminar
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is web page of weekly VOLGA seminar hosting at Sternberg Astronomical Institute.
-baseurl: "/volga" # the subpath of your site, e.g. /blog
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-
 timezone: Europe/Moscow
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: your-email@domain.com
+description: 'This is web page of weekly VOLGA seminar hosting at Sternberg Astronomical
+  Institute.
 
+'
+baseurl: "/volga"
+markdown: kramdown
 paginate: 6
-# paginate_path: "/page:num/"
-
-# Plugins
-# whitelist: []
 gems:
-   - jekyll-paginate
+- jekyll-paginate

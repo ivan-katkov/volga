@@ -1,9 +1,10 @@
 ---
+title: 'Семинар #49'
+date: 2016-11-02 16:00:00 +03:00
 layout: post
-title:  "Семинар #49"
-date:   2016-11-02 16:00:00 +0300
-<!-- categories: jekyll update -->
+"<!-- categories": jekyll update -->
 ---
+
 ## Повестка: Обсуждение новостей arXiv.
 
 ***
