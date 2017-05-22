@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Семинар #71"
+date:   2017-05-15 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: Доклад и обсуждение новостей arXiv.
+
+***
+
+### Ольга Кашибадзе
+
+#### **Близкие группы галактик в созвездиях Hercules-Bootes**
+
+Аннотация.
+
+Рассмотрена выборка 412 галактик с лучевыми скоростями V$_{LG}$ < 2500 км/с, расположенных в области неба RA = 13.0h ... 19.0h, Dec.= +10 ... +40 между Местным Войдом и Сверхгалактической плоскостью. Исследование является продолжением серии работ, посвящённых анализу наблюдательных данных о галактиках в близкой Вселенной и охватывающих 6 площадок с достаточно представительным числом объектов.
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/sai_Kashibadze_170515_lr.pdf)
+
+***
+
+### Анатолий Засов
+
+- Stuart M. Stach, A. M. Swinbank, Ian Smail et al. - [ALMA pin-points a strong over-density of U/LIRGs in the massive cluster XCS J2215 at z=1.46](https://arxiv.org/abs/1705.03479) {% include abstract.html param="1705.03479"%}
+
+> 
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/Zasov_May15.pdf)
+
+***
+
+### Ольга Сильченко
+
+- A.G. Noble, M. McDonald, A. Muzzin et al. - [ALMA Observations of Gas-Rich Galaxies in z~1.6 Galaxy Clusters: Evidence for Higher Gas Fractions in High-Density Environments](https://arxiv.org/abs/1704.03062) {% include abstract.html param="1705.03062"%}
+
+> 
+
+- Kshitija Kelkar, Meghan E. Gray, Alfonso Aragon-Salamanca et al. - [The effect of the environment on the structure, morphology and star-formation history of intermediate-redshift galaxies](https://arxiv.org/abs/1704.03402) {% include abstract.html param="1704.03402"%}
+
+> 
+
+- U. Kuchner, B. Ziegler, M. Verdugo et al. - [The effects of the cluster environment on the galaxy mass-size relation in MACSJ J1206.2-0847](https://arxiv.org/abs/1704.03839) {% include abstract.html param="1704.03839"%}
+
+> 
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/astroph65_lr.pdf)
+
+***
