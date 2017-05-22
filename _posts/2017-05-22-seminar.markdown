@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Семинар #72"
+date:   2017-05-22 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: обсуждение новостей arXiv.
+
+### Ольга Сильченко
+
+- Kristen B. W. McQuinn, Evan D. Skillman, Taryn N. Heliman et al. - [Galactic Outflows, Star Formation Histories, and Timescales in Starburst Dwarf Galaxies from STARBIRDS](https://arxiv.org/abs/1705.04692) {% include abstract.html param="1705.04692"%}
+
+> В 6 карликовых галактиках с известными историями звездообразования - со вспышками звездообразования! - ищется в мягком рентгене сигнал от галактического ветра. В пяти - нашли. Во-первых, морфология ветра совсем не биконическая. А во-вторых, характерное время развития ветра 25 млн лет, а не 5-10, как думали раньше. То есть газ ветра за это время может уйти далеко и НЕ УПАСТЬ ОБРАТНО.
+
+- L. Sánchez-Menguiano, S.F. Sánchez, I. Pérez et al. - [Arm and interarm abundance gradients in CALIFA spiral galaxies](https://arxiv.org/abs/1704.05733) {% include abstract.html param="1704.05733"%}
+
+> Очередной опус по химии газа от проекта CALIFA. В 63 спиральных галактиках плашмя посчитали отдельно HII-области в рукавах и между рукавами и построили радиальные градиенты металличности отдельно по областям в рукавах и областям между рукавами. Выборку галактик еще делят на спиральные grand-design и флоккулентные, а также на с барами и без баров. Значимые различия в химии в рукавах и между рукавами нашли только для флоккулентных и барных галактик.
+
+- Joseph N. Burchett, Todd M. Tripp, Q. Daniel Wang et al. - [Warm-hot Gas in X-ray Bright Galaxy Clusters and the H I-deficient Circumgalactic Medium in Dense Environments](https://arxiv.org/abs/1704.05892) {% include abstract.html param="1704.05892"%}
+
+> Посмотрели спектры квазаров ЗА скоплениями галактик. Искали линии поглощения - лаймановские и [OVI]1032,1038 - на красных смещениях близлежащих к лучу зрения галактик скоплений. ПОЧТИ НИЧЕГО НЕ НАШЛИ. ТО есть среда скоплений успешно обдирает как  гало нейтрального водорода, так и гало ТЕПЛОГО газа, $10^5-10^6$ K.
+
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/astroph66_lr.pdf)
+
+***
