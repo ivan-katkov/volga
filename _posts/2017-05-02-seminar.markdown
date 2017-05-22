@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Семинар #69"
+date:   2017-05-02 16:00:00 +0300
+<!-- categories: jekyll update -->
+---
+## Повестка: обсуждение новостей arXiv.
+
+***
+
+### Ольга Сильченко
+
+- Joo Heon Yoon, Mary E. Putman - [Lyman-alpha Absorbers and the Coma Cluster](https://arxiv.org/abs/1704.07839) {% include abstract.html param="1704.07839"%}
+
+> Наблюдательный поиск потоков аккреции "теплого" (T~10000 K) газа на скопления галактик - Coma и Virgo - по линиям поглощения в спектрах квазаров далекого фона. Что-то видят!
+
+- Facundo A. Gómez, Robert J. J. Grand, Antonela Monachesi et al. - [Lessons from the Auriga discs: The hunt for the Milky Way's ex-situ disc is not yet over](https://arxiv.org/abs/1704.08261) {% include abstract.html param="1704.08261"%}
+
+> Извлечение из крупномасштабной LCDM-модели Вселенной объектов, похожих на нашу Галактику, и разделение их дисков на звезды, образовавшиеся на месте, и на звезды, аккрецированные извне вместе с карликовыми спутниками. Вопреки интуитивным ожиданиям, среди звезд, аккрецированных извне, много на почти круговых орбитах. Как их отличить? Толстый диск, с плоским градиентом возрастов и низкой общей металличностью.
+
+- Anastasia A. Ponomareva, Marc A. W. Verheijen, Reynier F. Peletier et al. - [The Multi-Wavelength Tully-Fisher relation with spatially resolved HI kinematics](https://arxiv.org/abs/1704.08788) {% include abstract.html param="1704.08788"%}
+
+> Новая калибровка локального соотношения Талли-Фишера по 32 близким спиральным галактикам с независимо измеренными расстояниями - по цефеидам и по вершине ветви гигантов.
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/astroph63_lr.pdf)
+
+***
