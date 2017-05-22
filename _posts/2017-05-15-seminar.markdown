@@ -32,15 +32,15 @@ date:   2017-05-15 16:00:00 +0300
 
 ### Ольга Сильченко
 
-- A.G. Noble, M. McDonald, A. Muzzin et al. - [ALMA Observations of Gas-Rich Galaxies in z~1.6 Galaxy Clusters: Evidence for Higher Gas Fractions in High-Density Environments](https://arxiv.org/abs/1704.03062) {% include abstract.html param="1705.03062"%}
+- A.G. Noble, M. McDonald, A. Muzzin et al. - [ALMA Observations of Gas-Rich Galaxies in z~1.6 Galaxy Clusters: Evidence for Higher Gas Fractions in High-Density Environments](https://arxiv.org/abs/1705.03062) {% include abstract.html param="1705.03062"%}
 
 > 
 
-- Kshitija Kelkar, Meghan E. Gray, Alfonso Aragon-Salamanca et al. - [The effect of the environment on the structure, morphology and star-formation history of intermediate-redshift galaxies](https://arxiv.org/abs/1704.03402) {% include abstract.html param="1704.03402"%}
+- Kshitija Kelkar, Meghan E. Gray, Alfonso Aragon-Salamanca et al. - [The effect of the environment on the structure, morphology and star-formation history of intermediate-redshift galaxies](https://arxiv.org/abs/1705.03402) {% include abstract.html param="1705.03402"%}
 
 > 
 
-- U. Kuchner, B. Ziegler, M. Verdugo et al. - [The effects of the cluster environment on the galaxy mass-size relation in MACSJ J1206.2-0847](https://arxiv.org/abs/1704.03839) {% include abstract.html param="1704.03839"%}
+- U. Kuchner, B. Ziegler, M. Verdugo et al. - [The effects of the cluster environment on the galaxy mass-size relation in MACSJ J1206.2-0847](https://arxiv.org/abs/1705.03839) {% include abstract.html param="1705.03839"%}
 
 > 
 
