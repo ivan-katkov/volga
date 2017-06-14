@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Семинар #73"
+date:   2017-06-05 16:00:00 +0300
+<!-- categories: jekyll update -->
+spikers:
+  - name: Иван Катков
+    news:
+      - id: "1706.00766"
+        comment: " "
+  - name: Анатолий Засов
+    news:
+      - id: "1705.10530"
+        comment: " "
+      - id: "1705.10946"
+        comment: " "
+      - id: "1705.10683"
+        comment: ""
+      - id: "1705.09697"
+        comment: ""
+    file: "Zasov_june5_lr.pdf"
+  - name: Ольга Сильченко
+    news:
+      - id: "1706.00106"
+        comment: " "
+      - id: "1705.10283"
+        comment: " "
+      - id: "1705.10521"
+        comment: " "
+      - id: "1705.10849"
+        comment: " "
+    file: "astroph67_lr.pdf"
+---
+
+## Повестка: обсуждение новостей arXiv.
+
+{% for spiker in page.spikers %}
+***
+
+### {{ spiker.name }}
+  {% for new in spiker.news %}
+  {% arxiv {{ new.id }} %}
+
+> {{ new.comment}}
+
+  {% endfor %}
+
+{% if spiker.file %}
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/{{ spiker.file }})
+{% endif %}
+
+***
+{% endfor %}
+
+***
+
