@@ -2,55 +2,49 @@
 layout: post
 title:  "Семинар #73"
 date:   2017-06-05 16:00:00 +0300
-<!-- categories: jekyll update -->
-spikers:
-  - name: Иван Катков
-    news:
-      - id: "1706.00766"
-        comment: " "
-  - name: Анатолий Засов
-    news:
-      - id: "1705.10530"
-        comment: " "
-      - id: "1705.10946"
-        comment: " "
-      - id: "1705.10683"
-        comment: ""
-      - id: "1705.09697"
-        comment: ""
-    file: "Zasov_june5_lr.pdf"
-  - name: Ольга Сильченко
-    news:
-      - id: "1706.00106"
-        comment: " "
-      - id: "1705.10283"
-        comment: " "
-      - id: "1705.10521"
-        comment: " "
-      - id: "1705.10849"
-        comment: " "
-    file: "astroph67_lr.pdf"
 ---
 
 ## Повестка: обсуждение новостей arXiv.
 
-{% for spiker in page.spikers %}
 ***
 
-### {{ spiker.name }}
-  {% for new in spiker.news %}
-  {% arxiv {{ new.id }} %}
+### Иван Катков
 
-> {{ new.comment}}
-
-  {% endfor %}
-
-{% if spiker.file %}
-[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/{{ spiker.file }})
-{% endif %}
+- I. Perez, I. Martinez-Valpuesta, T. Ruiz-Lara et al. - [Observational constraints to boxy/peanut bulge formation time](https://arxiv.org/abs/1706.00766) {% include abstract.html param="1706.00766"%}
 
 ***
-{% endfor %}
+
+### Анатолий Засов
+
+- H. R. Stacey, J. P. McKean, N. C. Robertson et al. - [Gravitational lensing reveals extreme dust-obscured star formation in quasar host galaxies](https://arxiv.org/abs/1705.10530) {% include abstract.html param="1705.10530"%}
+
+- V. V. Bobylev, A. T. Bajkova - [Vertical Distribution and Kinematics of Protoplanetary Nebulae in the Galaxy](https://arxiv.org/abs/1705.10946) {% include abstract.html param="1705.10946"%}
+
+
+- P. J. E. Peebles - [Dynamics of the Local Group: the Dwarf Galaxies](https://arxiv.org/abs/1705.10683) {% include abstract.html param="1705.10683"%}
+
+
+- Carolin Wittmann, Thorsten Lisker, Liyualem Ambachew Tilahun et al. - [A population of faint low surface brightness galaxies in the Perseus cluster core](https://arxiv.org/abs/1705.09697) {% include abstract.html param="1705.09697"%}
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/Zasov_june5_lr.pdf)
 
 ***
+
+### Ольга Сильченко
+
+- Mark R. Krumholz, Blakesley Burkhart, John C. Forbes et al. - [A Unified Model for Galactic Discs: Star Formation, Turbulence Driving, and Mass Transport](https://arxiv.org/abs/1706.00106) {% include abstract.html param="1706.00106"%}
+
+
+- S. A. Balashev, P. Noterdaeme, H. Rahmani et al. - [CO-dark molecular gas at high redshift: very large $H_2$ content and high pressure in a low metallicity damped Lyman-alpha system](https://arxiv.org/abs/1705.10283) {% include abstract.html param="1705.10283"%}
+
+
+- Takuma Kokusho, Hidehiro Kaneda, Martin Bureau et al. - [A star formation study of the ATLAS3D early-type galaxies with the AKARI all-sky survey](https://arxiv.org/abs/1705.10521) {% include abstract.html param="1705.10521"%}
+
+
+- A. G. Delahaye, T. M. A. Webb, J. Nantais et al. - [Galaxy Merger Candidates in High-Redshift Cluster Environments](https://arxiv.org/abs/1705.10849) {% include abstract.html param="1705.10849"%}
+
+
+
+
+[Презентация]({{ site.baseurl  }}/downloads/{{ page.date | date: "%y%m%d" }}/astroph67_lr.pdf)
 
